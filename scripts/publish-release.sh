@@ -7,7 +7,7 @@ usage() {
   scripts/publish-release.sh <version> <installer_path> [repo]
 
 示例:
-  scripts/publish-release.sh v1.2.3-test.1 /mnt/d/Repos/cp_client/dist/CPSClient-Setup-v1.2.3-test.1.exe sixeq/cps-client-releases
+  scripts/publish-release.sh v1.2.3-test.1 /mnt/d/Repos/cp_client/dist/CPSClient-Setup-v1.2.3-test.1.exe errtry/cps-client-releases
 
 要求:
   - 已安装并登录 gh CLI，或设置 GITHUB_TOKEN 且安装 gh
@@ -22,7 +22,7 @@ fi
 
 VERSION="$1"
 INSTALLER="$2"
-REPO="${3:-sixeq/cps-client-releases}"
+REPO="${3:-errtry/cps-client-releases}"
 
 if [[ ! "$VERSION" =~ ^v[0-9]+\.[0-9]+\.[0-9]+(-[A-Za-z0-9.]+)?$ ]]; then
   echo "版本号格式不规范: $VERSION" >&2
