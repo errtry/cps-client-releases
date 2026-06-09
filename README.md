@@ -4,8 +4,8 @@
 
 ## 最新版本下载
 
-- 最新版入口：<https://github.com/OWNER/cps-client-releases/releases/latest>
-- 历史版本：<https://github.com/OWNER/cps-client-releases/releases>
+- 最新版入口：<https://github.com/sixeq/cps-client-releases/releases/latest>
+- 历史版本：<https://github.com/sixeq/cps-client-releases/releases>
 
 > 测试人员优先下载 `Latest` 标记的版本。若新版出现异常，可从历史版本页面回退到上一个稳定版本。
 

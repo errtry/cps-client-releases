@@ -9,7 +9,7 @@
 - 仓库名：`cps-client-releases`
 - 可见性：Public
 - 内容边界：只放发版说明、脚本、模板；不放源码、不放密钥、不放内部配置
-- 固定下载入口：`https://github.com/OWNER/cps-client-releases/releases/latest`
+- 固定下载入口：`https://github.com/sixeq/cps-client-releases/releases/latest`
 
 ## 发版前检查
 
@@ -23,13 +23,13 @@
 
 ```bash
 cd cps-client-releases
-scripts/publish-release.sh v1.2.3-test.1 /path/to/CPSClient-Setup.exe OWNER/cps-client-releases
+scripts/publish-release.sh v1.2.3-test.1 /path/to/CPSClient-Setup.exe sixeq/cps-client-releases
 ```
 
 发布完成后打开：
 
 ```text
-https://github.com/OWNER/cps-client-releases/releases/latest
+https://github.com/sixeq/cps-client-releases/releases/latest
 ```
 
 确认 Assets 包含：
@@ -41,7 +41,7 @@ https://github.com/OWNER/cps-client-releases/releases/latest
 
 ```text
 CPS 客户端新版已发布：v1.2.3-test.1
-下载地址：https://github.com/OWNER/cps-client-releases/releases/latest
+下载地址：https://github.com/sixeq/cps-client-releases/releases/latest
 本次重点：xxx
 测试重点：启动登录、打印任务接收、打印队列完成、异常诊断导出
 如遇问题请反馈：版本号 + Windows 版本 + 打印机型号 + 截图/诊断包
@@ -52,7 +52,7 @@ CPS 客户端新版已发布：v1.2.3-test.1
 进入历史版本页面下载上一个稳定版本：
 
 ```text
-https://github.com/OWNER/cps-client-releases/releases
+https://github.com/sixeq/cps-client-releases/releases
 ```
 
 ## 常见失败处理

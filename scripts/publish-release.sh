@@ -22,7 +22,7 @@ fi
 
 VERSION="$1"
 INSTALLER="$2"
-REPO="${3:-OWNER/cps-client-releases}"
+REPO="${3:-sixeq/cps-client-releases}"
 
 if [[ ! "$VERSION" =~ ^v[0-9]+\.[0-9]+\.[0-9]+(-[A-Za-z0-9.]+)?$ ]]; then
   echo "版本号格式不规范: $VERSION" >&2
