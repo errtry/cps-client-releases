@@ -7,13 +7,9 @@
 
 ## 当前测试包直链
 
-- 首个测试包：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.1/CPSClient-Setup-v0.1.0-test.1.exe>
-- 校验文件：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.1/SHA256SUMS.txt>
-
-- 最新版入口：<https://github.com/errtry/cps-client-releases/releases/latest>
-- 历史版本：<https://github.com/errtry/cps-client-releases/releases>
-
-> 测试人员优先下载 `Latest` 标记的版本。若新版出现异常，可从历史版本页面回退到上一个稳定版本。
+- 最新测试包：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.2/CPSClient-Setup-v0.1.0-test.2.exe>
+- 最新校验文件：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.2/SHA256SUMS.txt>
+- 上一测试包：<https://github.com/errtry/cps-client-releases/releases/tag/v0.1.0-test.1>
 
 ## 支持环境
 
