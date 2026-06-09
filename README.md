@@ -4,6 +4,12 @@
 
 ## 最新版本下载
 
+
+## 当前测试包直链
+
+- 首个测试包：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.1/CPSClient-Setup-v0.1.0-test.1.exe>
+- 校验文件：<https://github.com/errtry/cps-client-releases/raw/main/downloads/v0.1.0-test.1/SHA256SUMS.txt>
+
 - 最新版入口：<https://github.com/errtry/cps-client-releases/releases/latest>
 - 历史版本：<https://github.com/errtry/cps-client-releases/releases>
 
